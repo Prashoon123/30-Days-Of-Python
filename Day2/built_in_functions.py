@@ -17,4 +17,7 @@ print(float(65))
 float_num = 7.125
 print(int(float_num))
 
-# int
+# int to str
+int_num = 75
+str_num = str(int_num)
+print(str_num)
